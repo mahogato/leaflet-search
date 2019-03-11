@@ -125,6 +125,7 @@ This list is intended to be of utility for all developers who are looking web ma
 
 *(spamming urls will be automatically deleted)*
 
+* [GoMap](https://gomap.info/)
 * [Mars Map](https://mkgrgis.github.io/mkgrgis/openPlanetWMS/MarsMap.html)
 * [NMEA Generator](https://nmeagen.org/)
 * [Pouemes](http://pouemes.free.fr)
